@@ -1,1 +1,1 @@
-SQL code is inside templates
+SQL code is in templates folder
